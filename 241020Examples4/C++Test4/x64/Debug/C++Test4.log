@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(7,7): warning C4101: 'symbol': unreferenced local variable
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(6,10): warning C4101: 'B': unreferenced local variable
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(5,7): warning C4101: 'a': unreferenced local variable
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(5,10): warning C4101: 'b': unreferenced local variable
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(8,7): warning C4101: 'Symbol': unreferenced local variable
+D:\ProjectsLocal\C++Test4\C++Test4\main.cpp(6,7): warning C4101: 'A': unreferenced local variable
+  C++Test4.vcxproj -> D:\ProjectsLocal\C++Test4\x64\Debug\C++Test4.exe
