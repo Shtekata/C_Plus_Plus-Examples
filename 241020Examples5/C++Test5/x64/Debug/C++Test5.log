@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++Test5\C++Test5\main.cpp(20,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  C++Test5.vcxproj -> D:\ProjectsLocal\C++Test5\x64\Debug\C++Test5.exe
