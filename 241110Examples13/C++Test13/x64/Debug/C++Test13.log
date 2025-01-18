@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++\C++Test13\C++Test13\main.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+D:\ProjectsLocal\C++\C++Test13\C++Test13\main.cpp(160,20): warning C4018: '<=': signed/unsigned mismatch
+  C++Test13.vcxproj -> D:\ProjectsLocal\C++\C++Test13\x64\Debug\C++Test13.exe
