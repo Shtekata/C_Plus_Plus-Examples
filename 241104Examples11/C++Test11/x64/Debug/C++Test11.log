@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++\C++Test11\C++Test11\main.cpp(92,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\ProjectsLocal\C++\C++Test11\C++Test11\main.cpp(96,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ProjectsLocal\C++\C++Test11\C++Test11\main.cpp(97,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\ProjectsLocal\C++\C++Test11\C++Test11\main.cpp(135,15): warning C4101: 'x': unreferenced local variable
+  C++Test11.vcxproj -> D:\ProjectsLocal\C++\C++Test11\x64\Debug\C++Test11.exe
