@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++Test6\C++Test6\main.cpp(30,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  C++Test6.vcxproj -> D:\ProjectsLocal\C++Test6\x64\Debug\C++Test6.exe
