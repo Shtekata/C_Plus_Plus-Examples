@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ProjectsLocal\C++\241216Classes\241216Classes\main.cpp(535,1): warning C4172: returning address of local variable or temporary : a
+  241216Classes.vcxproj -> D:\ProjectsLocal\C++\241216Classes\x64\Debug\241216Classes.exe
