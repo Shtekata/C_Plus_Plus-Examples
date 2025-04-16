@@ -1,0 +1,8 @@
+﻿---
+# BasedOnStyle: LLVM
+# BasedOnStyle: Google
+BasedOnStyle: Chromium
+# BasedOnStyle: Mozilla
+# BasedOnStyle: WebKit
+# BasedOnStyle: Microsoft
+ColumnLimit: 78
