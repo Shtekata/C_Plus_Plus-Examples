@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92D35C0-25EB-4906-B67A-CD0F22C962E6}|250227BobiRoulette\\250227BobiRoulette.vcxproj|D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A92D35C0-25EB-4906-B67A-CD0F22C962E6}|250227BobiRoulette\\250227BobiRoulette.vcxproj|solutionrelative:250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
+              "RelativeDocumentMoniker": "250227BobiRoulette\\main.cpp",
+              "ToolTip": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
+              "RelativeToolTip": "250227BobiRoulette\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T14:20:36.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
