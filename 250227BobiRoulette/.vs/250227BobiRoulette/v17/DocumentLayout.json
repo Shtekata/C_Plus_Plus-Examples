@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\",
+  "WorkspaceRootPath": "E:\\Projects\u0026Textbooks\\C_Plus_Plus-Examples\\250227BobiRoulette\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A92D35C0-25EB-4906-B67A-CD0F22C962E6}|250227BobiRoulette\\250227BobiRoulette.vcxproj|D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A92D35C0-25EB-4906-B67A-CD0F22C962E6}|250227BobiRoulette\\250227BobiRoulette.vcxproj|solutionrelative:250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\u0026Textbooks\\C_Plus_Plus-Examples\\250227BobiRoulette\\250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:250227BobiRoulette\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
+              "DocumentMoniker": "E:\\Projects\u0026Textbooks\\C_Plus_Plus-Examples\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
               "RelativeDocumentMoniker": "250227BobiRoulette\\main.cpp",
-              "ToolTip": "D:\\ProjectsLocal\\C\u002B\u002B\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
+              "ToolTip": "E:\\Projects\u0026Textbooks\\C_Plus_Plus-Examples\\250227BobiRoulette\\250227BobiRoulette\\main.cpp",
               "RelativeToolTip": "250227BobiRoulette\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
