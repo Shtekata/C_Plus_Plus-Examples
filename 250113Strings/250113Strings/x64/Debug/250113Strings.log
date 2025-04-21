@@ -1,3 +1,3 @@
 ﻿  main.cpp
-D:\ProjectsLocal\C++\250113Strings\250113Strings\main.cpp(36,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsLocal\C++\250113Strings\250113Strings\main.cpp(37,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   250113Strings.vcxproj -> D:\ProjectsLocal\C++\250113Strings\x64\Debug\250113Strings.exe

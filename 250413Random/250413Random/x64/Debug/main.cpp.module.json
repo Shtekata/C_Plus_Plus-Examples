@@ -5,7 +5,7 @@
         {
             "primary-output": "x64\\Debug\\main.obj",
             "outputs": [
-                "D:\\ProjectsLocal\\GitHub\\C_Plus_Plus-Examples\\250413Random\\250413Random\\x64\\Debug\\vc143.pdb",
+                "D:\\ProjectsLocal\\C++\\250413Random\\250413Random\\x64\\Debug\\vc143.pdb",
                 "x64\\Debug\\"
             ],
             "requires": []
