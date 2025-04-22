@@ -1,2 +1,6 @@
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.44.35109:TargetPlatformVersion=10.0.26100.0:
+<<<<<<< HEAD
 Debug|x64|D:\ProjectsLocal\C++\250414Random\|
+=======
+Debug|x64|E:\Projects&Textbooks\C_Plus_Plus-Examples\250414Random\|
+>>>>>>> 979cdd052dc959ca46991eb3ab09acdbf07bee22
