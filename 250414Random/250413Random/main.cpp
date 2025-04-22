@@ -80,6 +80,7 @@ int main() {
   // randN2();
   randN3();
   // randN4();
+  randN3();
 
   return 0;
 }
