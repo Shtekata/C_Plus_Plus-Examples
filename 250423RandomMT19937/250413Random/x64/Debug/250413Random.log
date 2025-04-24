@@ -1,0 +1,7 @@
+﻿  Scanning sources for module dependencies...
+  main.cpp
+  Compiling...
+  main.cpp
+D:\ProjectsLocal\C++\250423RandomMT19937\250413Random\main.cpp(127,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\ProjectsLocal\C++\250423RandomMT19937\250413Random\main.cpp(148,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  250413Random.vcxproj -> D:\ProjectsLocal\C++\250423RandomMT19937\x64\Debug\250413Random.exe

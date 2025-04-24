@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\main.obj",
+            "outputs": [
+                "D:\\ProjectsLocal\\C++\\250414RandomSrand\\250413Random\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
