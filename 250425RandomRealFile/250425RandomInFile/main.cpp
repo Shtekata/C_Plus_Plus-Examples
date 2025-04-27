@@ -74,25 +74,25 @@ static void analyze(double& a, double& b, vector<string>& c) {
 
   for (string number : c) {
     tempNum = stod(number);
-    if (tempNum < tempUnit)
+    if (tempNum < tempUnit + a)
       perc__0_10Count++;
-    else if (tempNum < tempUnit * 2)
+    else if (tempNum < tempUnit * 2 + a)
       perc_10_20Count++;
-    else if (tempNum < tempUnit * 3)
+    else if (tempNum < tempUnit * 3 + a)
       perc_20_30Count++;
-    else if (tempNum < tempUnit * 4)
+    else if (tempNum < tempUnit * 4 + a)
       perc_30_40Count++;
-    else if (tempNum < tempUnit * 5)
+    else if (tempNum < tempUnit * 5 + a)
       perc_40_50Count++;
-    else if (tempNum < tempUnit * 6)
+    else if (tempNum < tempUnit * 6 + a)
       perc_50_60Count++;
-    else if (tempNum < tempUnit * 7)
+    else if (tempNum < tempUnit * 7 + a)
       perc_60_70Count++;
-    else if (tempNum < tempUnit * 8)
+    else if (tempNum < tempUnit * 8 + a)
       perc_70_80Count++;
-    else if (tempNum < tempUnit * 9)
+    else if (tempNum < tempUnit * 9 + a)
       perc_80_90Count++;
-    else if (tempNum < tempUnit * 10)
+    else if (tempNum <= tempUnit * 10 + a)
       perc90_100Count++;
 
     cout << number << "\n perc__0_10Count: " << perc__0_10Count
