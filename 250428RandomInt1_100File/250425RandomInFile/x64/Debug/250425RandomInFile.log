@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Shtekata\ProjectsLocal\C++\250428RandomInt1_100File\250425RandomInFile\main.cpp(125,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  250425RandomInFile.vcxproj -> C:\Shtekata\ProjectsLocal\C++\250428RandomInt1_100File\x64\Debug\250425RandomInFile.exe

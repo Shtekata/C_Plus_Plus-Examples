@@ -1,0 +1,1212 @@
+  84.88
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 0
+ perc_80_90Count: 1
+ perc90_100Count: 0
+
+  51.26
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 0
+ perc_80_90Count: 1
+ perc90_100Count: 0
+
+  66.58
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 1
+ perc_70_80Count: 0
+ perc_80_90Count: 1
+ perc90_100Count: 0
+
+  75.14
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 1
+ perc_70_80Count: 1
+ perc_80_90Count: 1
+ perc90_100Count: 0
+
+  79.86
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 1
+ perc_70_80Count: 1
+ perc_80_90Count: 2
+ perc90_100Count: 0
+
+  93.60
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 1
+ perc_70_80Count: 1
+ perc_80_90Count: 2
+ perc90_100Count: 1
+
+  94.80
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 1
+ perc_70_80Count: 1
+ perc_80_90Count: 2
+ perc90_100Count: 2
+
+  49.80
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 1
+ perc_80_90Count: 2
+ perc90_100Count: 2
+
+  76.40
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 2
+
+  47.05
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 2
+
+  96.10
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 3
+
+  31.67
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 3
+
+  90.26
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 4
+
+  57.61
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 4
+
+  82.35
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+   8.72
+ perc__0_10Count: 1
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+   3.01
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 1
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  47.06
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 1
+ perc_40_50Count: 2
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  30.54
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 3
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  49.50
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 4
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  51.77
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  99.75
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  59.42
+ perc__0_10Count: 2
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  17.85
+ perc__0_10Count: 2
+ perc_10_20Count: 1
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  71.37
+ perc__0_10Count: 2
+ perc_10_20Count: 1
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 3
+ perc_80_90Count: 3
+ perc90_100Count: 4
+
+  80.31
+ perc__0_10Count: 2
+ perc_10_20Count: 1
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 4
+
+  91.01
+ perc__0_10Count: 2
+ perc_10_20Count: 1
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  18.58
+ perc__0_10Count: 2
+ perc_10_20Count: 2
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 2
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  54.32
+ perc__0_10Count: 2
+ perc_10_20Count: 2
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 2
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  64.89
+ perc__0_10Count: 2
+ perc_10_20Count: 2
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 3
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  10.47
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 3
+ perc_70_80Count: 3
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  72.27
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  49.82
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  16.42
+ perc__0_10Count: 2
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  47.94
+ perc__0_10Count: 2
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 3
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+   2.41
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 3
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  39.88
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 4
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  71.05
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+  92.67
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 7
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 4
+ perc90_100Count: 6
+
+  52.58
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 4
+ perc90_100Count: 6
+
+  86.86
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 0
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 5
+ perc90_100Count: 6
+
+  27.32
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 1
+ perc_30_40Count: 2
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 5
+ perc90_100Count: 6
+
+  42.12
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 1
+ perc_30_40Count: 2
+ perc_40_50Count: 5
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 5
+ perc90_100Count: 6
+
+  86.05
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 1
+ perc_30_40Count: 2
+ perc_40_50Count: 5
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  23.94
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 5
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 5
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  75.18
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 5
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  32.25
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 3
+ perc_40_50Count: 5
+ perc_50_60Count: 8
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  51.28
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 3
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  43.30
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 3
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  38.68
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 2
+ perc_30_40Count: 4
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  24.67
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 4
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  59.00
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 4
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  69.61
+ perc__0_10Count: 3
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 4
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+   4.57
+ perc__0_10Count: 4
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 4
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  39.31
+ perc__0_10Count: 4
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 5
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+  98.87
+ perc__0_10Count: 4
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 5
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  36.68
+ perc__0_10Count: 4
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  40.76
+ perc__0_10Count: 4
+ perc_10_20Count: 4
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  14.79
+ perc__0_10Count: 4
+ perc_10_20Count: 5
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  14.71
+ perc__0_10Count: 4
+ perc_10_20Count: 6
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 10
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  50.82
+ perc__0_10Count: 4
+ perc_10_20Count: 6
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 11
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+   3.74
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 3
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 11
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  27.12
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 11
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  58.70
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 3
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  68.11
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  10.46
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  99.43
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 7
+
+  93.02
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 8
+
+  70.44
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 8
+ perc_80_90Count: 6
+ perc90_100Count: 8
+
+  73.83
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 4
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 6
+ perc90_100Count: 8
+
+  21.78
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 5
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 6
+ perc90_100Count: 8
+
+  81.11
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 5
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 12
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  50.42
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 5
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 13
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  23.86
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 6
+ perc_30_40Count: 6
+ perc_40_50Count: 7
+ perc_50_60Count: 13
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  31.91
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 6
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 13
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  52.06
+ perc__0_10Count: 5
+ perc_10_20Count: 7
+ perc_20_30Count: 6
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  17.92
+ perc__0_10Count: 5
+ perc_10_20Count: 8
+ perc_20_30Count: 6
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  23.37
+ perc__0_10Count: 5
+ perc_10_20Count: 8
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+   8.20
+ perc__0_10Count: 6
+ perc_10_20Count: 8
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  19.65
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  72.91
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 10
+ perc_80_90Count: 7
+ perc90_100Count: 8
+
+  93.50
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 10
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  73.04
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 7
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  44.06
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 14
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  53.36
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 7
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 15
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  27.92
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 8
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 15
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  26.97
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 9
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 15
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  51.52
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 9
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 16
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  20.48
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 8
+ perc_50_60Count: 16
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  41.87
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 9
+ perc_50_60Count: 16
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  39.21
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 16
+ perc_60_70Count: 4
+ perc_70_80Count: 11
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  76.25
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 16
+ perc_60_70Count: 4
+ perc_70_80Count: 12
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  56.92
+ perc__0_10Count: 6
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 17
+ perc_60_70Count: 4
+ perc_70_80Count: 12
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  14.98
+ perc__0_10Count: 6
+ perc_10_20Count: 10
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 17
+ perc_60_70Count: 4
+ perc_70_80Count: 12
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  28.13
+ perc__0_10Count: 6
+ perc_10_20Count: 10
+ perc_20_30Count: 11
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 17
+ perc_60_70Count: 4
+ perc_70_80Count: 12
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  76.52
+ perc__0_10Count: 6
+ perc_10_20Count: 10
+ perc_20_30Count: 11
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 17
+ perc_60_70Count: 4
+ perc_70_80Count: 13
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  56.20
+ perc__0_10Count: 6
+ perc_10_20Count: 10
+ perc_20_30Count: 11
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 18
+ perc_60_70Count: 4
+ perc_70_80Count: 13
+ perc_80_90Count: 7
+ perc90_100Count: 9
+
+  89.30
+ perc__0_10Count: 6
+ perc_10_20Count: 10
+ perc_20_30Count: 11
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 18
+ perc_60_70Count: 4
+ perc_70_80Count: 13
+ perc_80_90Count: 7
+ perc90_100Count: 10
+
+  15.03
+ perc__0_10Count: 6
+ perc_10_20Count: 11
+ perc_20_30Count: 11
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 18
+ perc_60_70Count: 4
+ perc_70_80Count: 13
+ perc_80_90Count: 7
+ perc90_100Count: 10
+
+  27.97
+ perc__0_10Count: 6
+ perc_10_20Count: 11
+ perc_20_30Count: 12
+ perc_30_40Count: 8
+ perc_40_50Count: 9
+ perc_50_60Count: 18
+ perc_60_70Count: 4
+ perc_70_80Count: 13
+ perc_80_90Count: 7
+ perc90_100Count: 10
+
+
+ The percentage of numbers with values between  0 and  10 % of the range: 1.00 - 100.00 values is:  6.12 %
+ The percentage of numbers with values between 10 and  20 % of the range: 1.00 - 100.00 values is: 11.22 %
+ The percentage of numbers with values between 20 and  30 % of the range: 1.00 - 100.00 values is: 12.24 %
+ The percentage of numbers with values between 30 and  40 % of the range: 1.00 - 100.00 values is:  8.16 %
+ The percentage of numbers with values between 40 and  50 % of the range: 1.00 - 100.00 values is:  9.18 %
+ The percentage of numbers with values between 50 and  60 % of the range: 1.00 - 100.00 values is: 18.37 %
+ The percentage of numbers with values between 60 and  70 % of the range: 1.00 - 100.00 values is:  4.08 %
+ The percentage of numbers with values between 70 and  80 % of the range: 1.00 - 100.00 values is: 13.27 %
+ The percentage of numbers with values between 80 and  90 % of the range: 1.00 - 100.00 values is:  7.14 %
+ The percentage of numbers with values between 90 and 100 % of the range: 1.00 - 100.00 values is: 10.20 %
+

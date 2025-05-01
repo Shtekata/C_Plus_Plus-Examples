@@ -1,0 +1,1412 @@
+Row: 70_80 tempNum: 74 tempUnit: 9.9 | 74 < 9.9 * 8 + 1 | true
+
+     74
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 0
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 1
+ perc_80_90Count: 0
+ perc90_100Count: 0
+
+Row: 20_30 tempNum: 22 tempUnit: 9.9 | 22 < 9.9 * 3 + 1 | true
+
+     22
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 1
+ perc_30_40Count: 0
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 1
+ perc_80_90Count: 0
+ perc90_100Count: 0
+
+Row: 30_40 tempNum: 32 tempUnit: 9.9 | 32 < 9.9 * 4 + 1 | true
+
+     32
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 1
+ perc_30_40Count: 1
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 1
+ perc_80_90Count: 0
+ perc90_100Count: 0
+
+Row: 90_100 tempNum: 91 tempUnit: 9.9 | 91 <= 9.9 * 10 + 1 | true
+
+     91
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 1
+ perc_30_40Count: 1
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 1
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: 20_30 tempNum: 22 tempUnit: 9.9 | 22 < 9.9 * 3 + 1 | true
+
+     22
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 1
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 1
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: 70_80 tempNum: 73 tempUnit: 9.9 | 73 < 9.9 * 8 + 1 | true
+
+     73
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 1
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: 30_40 tempNum: 34 tempUnit: 9.9 | 34 < 9.9 * 4 + 1 | true
+
+     34
+ perc__0_10Count: 0
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: _0_10 tempNum: 8 tempUnit: 9.9 | 8 < 9.9 + 1 | true
+
+      8
+ perc__0_10Count: 1
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 0
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: 50_60 tempNum: 54 tempUnit: 9.9 | 54 < 9.9 * 6 + 1 | true
+
+     54
+ perc__0_10Count: 1
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 1
+
+Row: 90_100 tempNum: 91 tempUnit: 9.9 | 91 <= 9.9 * 10 + 1 | true
+
+     91
+ perc__0_10Count: 1
+ perc_10_20Count: 0
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 2
+
+Row: 10_20 tempNum: 19 tempUnit: 9.9 | 19 < 9.9 * 2 + 1 | true
+
+     19
+ perc__0_10Count: 1
+ perc_10_20Count: 1
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 2
+
+Row: 10_20 tempNum: 20 tempUnit: 9.9 | 20 < 9.9 * 2 + 1 | true
+
+     20
+ perc__0_10Count: 1
+ perc_10_20Count: 2
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 2
+
+Row: 10_20 tempNum: 20 tempUnit: 9.9 | 20 < 9.9 * 2 + 1 | true
+
+     20
+ perc__0_10Count: 1
+ perc_10_20Count: 3
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 2
+
+Row: _0_10 tempNum: 2 tempUnit: 9.9 | 2 < 9.9 + 1 | true
+
+      2
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 2
+
+Row: 90_100 tempNum: 95 tempUnit: 9.9 | 95 <= 9.9 * 10 + 1 | true
+
+     95
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 1
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 50_60 tempNum: 53 tempUnit: 9.9 | 53 < 9.9 * 6 + 1 | true
+
+     53
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 0
+ perc_50_60Count: 2
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 40_50 tempNum: 44 tempUnit: 9.9 | 44 < 9.9 * 5 + 1 | true
+
+     44
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 2
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 20_30 tempNum: 22 tempUnit: 9.9 | 22 < 9.9 * 3 + 1 | true
+
+     22
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 3
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 0
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 60_70 tempNum: 70 tempUnit: 9.9 | 70 < 9.9 * 7 + 1 | true
+
+     70
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 3
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 1
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 60_70 tempNum: 70 tempUnit: 9.9 | 70 < 9.9 * 7 + 1 | true
+
+     70
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 3
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 20_30 tempNum: 25 tempUnit: 9.9 | 25 < 9.9 * 3 + 1 | true
+
+     25
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 2
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 50_60 tempNum: 58 tempUnit: 9.9 | 58 < 9.9 * 6 + 1 | true
+
+     58
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 3
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 50_60 tempNum: 51 tempUnit: 9.9 | 51 < 9.9 * 6 + 1 | true
+
+     51
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 0
+ perc90_100Count: 3
+
+Row: 80_90 tempNum: 84 tempUnit: 9.9 | 84 < 9.9 * 9 + 1 | true
+
+     84
+ perc__0_10Count: 2
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 1
+ perc90_100Count: 3
+
+Row: _0_10 tempNum: 5 tempUnit: 9.9 | 5 < 9.9 + 1 | true
+
+      5
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 1
+ perc90_100Count: 3
+
+Row: 90_100 tempNum: 96 tempUnit: 9.9 | 96 <= 9.9 * 10 + 1 | true
+
+     96
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 1
+ perc90_100Count: 4
+
+Row: 90_100 tempNum: 100 tempUnit: 9.9 | 100 <= 9.9 * 10 + 1 | true
+
+    100
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 1
+ perc90_100Count: 5
+
+Row: 80_90 tempNum: 88 tempUnit: 9.9 | 88 < 9.9 * 9 + 1 | true
+
+     88
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 2
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 69 tempUnit: 9.9 | 69 < 9.9 * 7 + 1 | true
+
+     69
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 1
+ perc_50_60Count: 4
+ perc_60_70Count: 3
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 40_50 tempNum: 43 tempUnit: 9.9 | 43 < 9.9 * 5 + 1 | true
+
+     43
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 4
+ perc_60_70Count: 3
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 68 tempUnit: 9.9 | 68 < 9.9 * 7 + 1 | true
+
+     68
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 2
+ perc_40_50Count: 2
+ perc_50_60Count: 4
+ perc_60_70Count: 4
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 30_40 tempNum: 39 tempUnit: 9.9 | 39 < 9.9 * 4 + 1 | true
+
+     39
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 4
+ perc_60_70Count: 4
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 50_60 tempNum: 51 tempUnit: 9.9 | 51 < 9.9 * 6 + 1 | true
+
+     51
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 4
+ perc_70_80Count: 2
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 70_80 tempNum: 73 tempUnit: 9.9 | 73 < 9.9 * 8 + 1 | true
+
+     73
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 4
+ perc_70_80Count: 3
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 70_80 tempNum: 72 tempUnit: 9.9 | 72 < 9.9 * 8 + 1 | true
+
+     72
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 5
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 50_60 tempNum: 52 tempUnit: 9.9 | 52 < 9.9 * 6 + 1 | true
+
+     52
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 4
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 20_30 tempNum: 23 tempUnit: 9.9 | 23 < 9.9 * 3 + 1 | true
+
+     23
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 3
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 30_40 tempNum: 35 tempUnit: 9.9 | 35 < 9.9 * 4 + 1 | true
+
+     35
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 6
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 50_60 tempNum: 51 tempUnit: 9.9 | 51 < 9.9 * 6 + 1 | true
+
+     51
+ perc__0_10Count: 3
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: _0_10 tempNum: 6 tempUnit: 9.9 | 6 < 9.9 + 1 | true
+
+      6
+ perc__0_10Count: 4
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 4
+ perc_70_80Count: 4
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 70_80 tempNum: 77 tempUnit: 9.9 | 77 < 9.9 * 8 + 1 | true
+
+     77
+ perc__0_10Count: 4
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 4
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: _0_10 tempNum: 4 tempUnit: 9.9 | 4 < 9.9 + 1 | true
+
+      4
+ perc__0_10Count: 5
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 4
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 61 tempUnit: 9.9 | 61 < 9.9 * 7 + 1 | true
+
+     61
+ perc__0_10Count: 5
+ perc_10_20Count: 3
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 5
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 10_20 tempNum: 14 tempUnit: 9.9 | 14 < 9.9 * 2 + 1 | true
+
+     14
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 2
+ perc_50_60Count: 7
+ perc_60_70Count: 5
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 40_50 tempNum: 43 tempUnit: 9.9 | 43 < 9.9 * 5 + 1 | true
+
+     43
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 3
+ perc_50_60Count: 7
+ perc_60_70Count: 5
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 66 tempUnit: 9.9 | 66 < 9.9 * 7 + 1 | true
+
+     66
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 3
+ perc_50_60Count: 7
+ perc_60_70Count: 6
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 40_50 tempNum: 48 tempUnit: 9.9 | 48 < 9.9 * 5 + 1 | true
+
+     48
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 7
+ perc_60_70Count: 6
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 50_60 tempNum: 51 tempUnit: 9.9 | 51 < 9.9 * 6 + 1 | true
+
+     51
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 6
+ perc_70_80Count: 5
+ perc_80_90Count: 2
+ perc90_100Count: 5
+
+Row: 80_90 tempNum: 85 tempUnit: 9.9 | 85 < 9.9 * 9 + 1 | true
+
+     85
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 6
+ perc_70_80Count: 5
+ perc_80_90Count: 3
+ perc90_100Count: 5
+
+Row: 80_90 tempNum: 83 tempUnit: 9.9 | 83 < 9.9 * 9 + 1 | true
+
+     83
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 6
+ perc_70_80Count: 5
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 70_80 tempNum: 74 tempUnit: 9.9 | 74 < 9.9 * 8 + 1 | true
+
+     74
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 6
+ perc_70_80Count: 6
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 65 tempUnit: 9.9 | 65 < 9.9 * 7 + 1 | true
+
+     65
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 4
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 7
+ perc_70_80Count: 6
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 30_40 tempNum: 32 tempUnit: 9.9 | 32 < 9.9 * 4 + 1 | true
+
+     32
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 7
+ perc_70_80Count: 6
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 60_70 tempNum: 62 tempUnit: 9.9 | 62 < 9.9 * 7 + 1 | true
+
+     62
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 8
+ perc_60_70Count: 8
+ perc_70_80Count: 6
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 50_60 tempNum: 59 tempUnit: 9.9 | 59 < 9.9 * 6 + 1 | true
+
+     59
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 6
+ perc_80_90Count: 4
+ perc90_100Count: 5
+
+Row: 80_90 tempNum: 89 tempUnit: 9.9 | 89 < 9.9 * 9 + 1 | true
+
+     89
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 6
+ perc_80_90Count: 5
+ perc90_100Count: 5
+
+Row: 80_90 tempNum: 85 tempUnit: 9.9 | 85 < 9.9 * 9 + 1 | true
+
+     85
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 6
+ perc_80_90Count: 6
+ perc90_100Count: 5
+
+Row: 70_80 tempNum: 79 tempUnit: 9.9 | 79 < 9.9 * 8 + 1 | true
+
+     79
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 4
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 5
+
+Row: 40_50 tempNum: 46 tempUnit: 9.9 | 46 < 9.9 * 5 + 1 | true
+
+     46
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 5
+
+Row: 90_100 tempNum: 94 tempUnit: 9.9 | 94 <= 9.9 * 10 + 1 | true
+
+     94
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 5
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+Row: 20_30 tempNum: 30 tempUnit: 9.9 | 30 < 9.9 * 3 + 1 | true
+
+     30
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 6
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 7
+ perc_80_90Count: 6
+ perc90_100Count: 6
+
+Row: 80_90 tempNum: 86 tempUnit: 9.9 | 86 < 9.9 * 9 + 1 | true
+
+     86
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 6
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 7
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 70_80 tempNum: 72 tempUnit: 9.9 | 72 < 9.9 * 8 + 1 | true
+
+     72
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 6
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 20_30 tempNum: 27 tempUnit: 9.9 | 27 < 9.9 * 3 + 1 | true
+
+     27
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 7
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 20_30 tempNum: 21 tempUnit: 9.9 | 21 < 9.9 * 3 + 1 | true
+
+     21
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 8
+ perc_30_40Count: 5
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 30_40 tempNum: 35 tempUnit: 9.9 | 35 < 9.9 * 4 + 1 | true
+
+     35
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 8
+ perc_30_40Count: 6
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 30_40 tempNum: 32 tempUnit: 9.9 | 32 < 9.9 * 4 + 1 | true
+
+     32
+ perc__0_10Count: 5
+ perc_10_20Count: 4
+ perc_20_30Count: 8
+ perc_30_40Count: 7
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 10_20 tempNum: 17 tempUnit: 9.9 | 17 < 9.9 * 2 + 1 | true
+
+     17
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 8
+ perc_30_40Count: 7
+ perc_40_50Count: 5
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 40_50 tempNum: 45 tempUnit: 9.9 | 45 < 9.9 * 5 + 1 | true
+
+     45
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 8
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 8
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 70_80 tempNum: 71 tempUnit: 9.9 | 71 < 9.9 * 8 + 1 | true
+
+     71
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 8
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 20_30 tempNum: 22 tempUnit: 9.9 | 22 < 9.9 * 3 + 1 | true
+
+     22
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 9
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 9
+ perc_80_90Count: 7
+ perc90_100Count: 6
+
+Row: 80_90 tempNum: 88 tempUnit: 9.9 | 88 < 9.9 * 9 + 1 | true
+
+     88
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 9
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 8
+ perc_70_80Count: 9
+ perc_80_90Count: 8
+ perc90_100Count: 6
+
+Row: 60_70 tempNum: 64 tempUnit: 9.9 | 64 < 9.9 * 7 + 1 | true
+
+     64
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 9
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 9
+ perc_70_80Count: 9
+ perc_80_90Count: 8
+ perc90_100Count: 6
+
+Row: 20_30 tempNum: 24 tempUnit: 9.9 | 24 < 9.9 * 3 + 1 | true
+
+     24
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 9
+ perc_70_80Count: 9
+ perc_80_90Count: 8
+ perc90_100Count: 6
+
+Row: 90_100 tempNum: 100 tempUnit: 9.9 | 100 <= 9.9 * 10 + 1 | true
+
+    100
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 9
+ perc_70_80Count: 9
+ perc_80_90Count: 8
+ perc90_100Count: 7
+
+Row: 80_90 tempNum: 82 tempUnit: 9.9 | 82 < 9.9 * 9 + 1 | true
+
+     82
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 9
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 7
+
+Row: 90_100 tempNum: 96 tempUnit: 9.9 | 96 <= 9.9 * 10 + 1 | true
+
+     96
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 9
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 60_70 tempNum: 65 tempUnit: 9.9 | 65 < 9.9 * 7 + 1 | true
+
+     65
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 10
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 60_70 tempNum: 70 tempUnit: 9.9 | 70 < 9.9 * 7 + 1 | true
+
+     70
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 7
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 30_40 tempNum: 37 tempUnit: 9.9 | 37 < 9.9 * 4 + 1 | true
+
+     37
+ perc__0_10Count: 5
+ perc_10_20Count: 5
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 10_20 tempNum: 11 tempUnit: 9.9 | 11 < 9.9 * 2 + 1 | true
+
+     11
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 9
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 50_60 tempNum: 54 tempUnit: 9.9 | 54 < 9.9 * 6 + 1 | true
+
+     54
+ perc__0_10Count: 5
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: _0_10 tempNum: 3 tempUnit: 9.9 | 3 < 9.9 + 1 | true
+
+      3
+ perc__0_10Count: 6
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 9
+ perc90_100Count: 8
+
+Row: 80_90 tempNum: 86 tempUnit: 9.9 | 86 < 9.9 * 9 + 1 | true
+
+     86
+ perc__0_10Count: 6
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 9
+ perc_80_90Count: 10
+ perc90_100Count: 8
+
+Row: 70_80 tempNum: 71 tempUnit: 9.9 | 71 < 9.9 * 8 + 1 | true
+
+     71
+ perc__0_10Count: 6
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 10
+ perc90_100Count: 8
+
+Row: 80_90 tempNum: 85 tempUnit: 9.9 | 85 < 9.9 * 9 + 1 | true
+
+     85
+ perc__0_10Count: 6
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 8
+
+Row: _0_10 tempNum: 9 tempUnit: 9.9 | 9 < 9.9 + 1 | true
+
+      9
+ perc__0_10Count: 7
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 10
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 8
+
+Row: 50_60 tempNum: 55 tempUnit: 9.9 | 55 < 9.9 * 6 + 1 | true
+
+     55
+ perc__0_10Count: 7
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 11
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 8
+
+Row: 90_100 tempNum: 95 tempUnit: 9.9 | 95 <= 9.9 * 10 + 1 | true
+
+     95
+ perc__0_10Count: 7
+ perc_10_20Count: 6
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 11
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 10_20 tempNum: 20 tempUnit: 9.9 | 20 < 9.9 * 2 + 1 | true
+
+     20
+ perc__0_10Count: 7
+ perc_10_20Count: 7
+ perc_20_30Count: 10
+ perc_30_40Count: 8
+ perc_40_50Count: 6
+ perc_50_60Count: 11
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 30_40 tempNum: 36 tempUnit: 9.9 | 36 < 9.9 * 4 + 1 | true
+
+     36
+ perc__0_10Count: 7
+ perc_10_20Count: 7
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 11
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 50_60 tempNum: 55 tempUnit: 9.9 | 55 < 9.9 * 6 + 1 | true
+
+     55
+ perc__0_10Count: 7
+ perc_10_20Count: 7
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 12
+ perc_60_70Count: 11
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 60_70 tempNum: 66 tempUnit: 9.9 | 66 < 9.9 * 7 + 1 | true
+
+     66
+ perc__0_10Count: 7
+ perc_10_20Count: 7
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 12
+ perc_60_70Count: 12
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 10_20 tempNum: 16 tempUnit: 9.9 | 16 < 9.9 * 2 + 1 | true
+
+     16
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 12
+ perc_60_70Count: 12
+ perc_70_80Count: 10
+ perc_80_90Count: 11
+ perc90_100Count: 9
+
+Row: 80_90 tempNum: 86 tempUnit: 9.9 | 86 < 9.9 * 9 + 1 | true
+
+     86
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 12
+ perc_60_70Count: 12
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+Row: 50_60 tempNum: 53 tempUnit: 9.9 | 53 < 9.9 * 6 + 1 | true
+
+     53
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 9
+ perc_40_50Count: 6
+ perc_50_60Count: 13
+ perc_60_70Count: 12
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+Row: 30_40 tempNum: 33 tempUnit: 9.9 | 33 < 9.9 * 4 + 1 | true
+
+     33
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 10
+ perc_40_50Count: 6
+ perc_50_60Count: 13
+ perc_60_70Count: 12
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+Row: 60_70 tempNum: 68 tempUnit: 9.9 | 68 < 9.9 * 7 + 1 | true
+
+     68
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 10
+ perc_40_50Count: 6
+ perc_50_60Count: 13
+ perc_60_70Count: 13
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+Row: 60_70 tempNum: 69 tempUnit: 9.9 | 69 < 9.9 * 7 + 1 | true
+
+     69
+ perc__0_10Count: 7
+ perc_10_20Count: 8
+ perc_20_30Count: 10
+ perc_30_40Count: 10
+ perc_40_50Count: 6
+ perc_50_60Count: 13
+ perc_60_70Count: 14
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+Row: 10_20 tempNum: 17 tempUnit: 9.9 | 17 < 9.9 * 2 + 1 | true
+
+     17
+ perc__0_10Count: 7
+ perc_10_20Count: 9
+ perc_20_30Count: 10
+ perc_30_40Count: 10
+ perc_40_50Count: 6
+ perc_50_60Count: 13
+ perc_60_70Count: 14
+ perc_70_80Count: 10
+ perc_80_90Count: 12
+ perc90_100Count: 9
+
+
+ The percentage of numbers with values between  0 and  10 % of the range: 1 - 100 values is:  7.00 %
+ The percentage of numbers with values between 10 and  20 % of the range: 1 - 100 values is:  9.00 %
+ The percentage of numbers with values between 20 and  30 % of the range: 1 - 100 values is: 10.00 %
+ The percentage of numbers with values between 30 and  40 % of the range: 1 - 100 values is: 10.00 %
+ The percentage of numbers with values between 40 and  50 % of the range: 1 - 100 values is:  6.00 %
+ The percentage of numbers with values between 50 and  60 % of the range: 1 - 100 values is: 13.00 %
+ The percentage of numbers with values between 60 and  70 % of the range: 1 - 100 values is: 14.00 %
+ The percentage of numbers with values between 70 and  80 % of the range: 1 - 100 values is: 10.00 %
+ The percentage of numbers with values between 80 and  90 % of the range: 1 - 100 values is: 12.00 %
+ The percentage of numbers with values between 90 and 100 % of the range: 1 - 100 values is:  9.00 %
+
